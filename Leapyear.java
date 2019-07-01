@@ -9,11 +9,11 @@ public class Leapyear {
 		
 		if((year%4==0)||(year%400==0)||(year%100==0))
 		{
-			System.out.println("Yes");
+			System.out.println("yes");
 		}
 		else
 		{
-			System.out.println("No");
+			System.out.println("no");
 		}
 	}
 
